@@ -1,8 +1,8 @@
 title: Summer of ML 2020 
 description: > # this means to ignore newlines until "baseurl:"
   A series of 4 workshops, culminating in a hackathon, organised by AI & ML Club IIT Delhi. Join us for a month of learning in the field of ML.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ramneet-singh.github.io/SummerOfML-2021" # the base hostname & protocol for your site
+baseurl: "/SummerOfML-2021" # the subpath of your site, e.g. /blog
+url: "https://ramneet-singh.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
