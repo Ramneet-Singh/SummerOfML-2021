@@ -4,10 +4,10 @@
     <title>Summer of ML 2020</title>
     <description>A series of 4 workshops, culminating in a hackathon, organised by AI &amp; ML Club IIT Delhi. Join us for a month of learning in the field of ML.
 </description>
-    <link>Your-Link.github.io/</link>
-    <atom:link href="Your-Link.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Jun 2021 20:41:32 +0530</pubDate>
-    <lastBuildDate>Sat, 12 Jun 2021 20:41:32 +0530</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 12 Jun 2021 21:25:04 +0530</pubDate>
+    <lastBuildDate>Sat, 12 Jun 2021 21:25:04 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
   </channel>
