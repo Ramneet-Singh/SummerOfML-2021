@@ -2,7 +2,7 @@
   img: icon-agenda.jpeg
   name: Agenda
   info: Check out the agenda
-  link: /agenda
+  link: {{site.baseurl}}/agenda
 
 - inverted: 
   img: icon-about.jpeg
