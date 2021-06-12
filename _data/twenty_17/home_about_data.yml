@@ -2,7 +2,7 @@
   img: icon-agenda.jpeg
   name: Agenda
   info: Check out the agenda
-  link: {{site.baseurl}}/agenda
+  link: /SummerOfML-2021/agenda
 
 - inverted: 
   img: icon-about.jpeg
