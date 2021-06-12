@@ -1,0 +1,36 @@
+title: Summer of ML 2020 
+description: > # this means to ignore newlines until "baseurl:"
+  A series of 4 workshops, culminating in a hackathon, organised by AI & ML Club IIT Delhi. Join us for a month of learning in the field of ML.
+baseurl: "/SummerOfML-2021" # the subpath of your site, e.g. /blog
+url:Ramneet-Singh.github.io" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
+
+facebook:
+  app_id: 
+
+logo: "../css/2017_style/img/aimlc_logo.png"
+
+social: 
+  name: AIMLC Facebook Page
+  link: "https://www.facebook.com/aimlc.iitdelhi"
+
+google_site_verification: googleXXXXXXXXXXXXXXXX.html
+
+include: ['_2016_pages', '_2017_pages']
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: youtube
+    url: https://www.youtube.com/channel/UCYZexisW1MxuVkPyiybQoxg
+  - title: facebook
+    url: https://www.facebook.com/aimlc.iitdelhi
+  - title: instagram
+    url: https://www.instagram.com/aimlc.iitd/
+# Build settings
+markdown: kramdown
+permalink: pretty

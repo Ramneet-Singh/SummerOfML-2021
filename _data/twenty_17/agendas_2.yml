@@ -1,0 +1,9 @@
+- time: 22nd June, 5:00-6:30 PM
+  info: "<u>Introduction to Deep Learning</u><br><b>Ananye Agarwal</b><br><i>4th Year B.Tech, CSE IIT Delhi</i><br><br><i>Abstract:</i><p>
+  Ananye will be starting with a brief tutorial on Logistic Regression, and will then move on to Deep Learning. He will talk about the motivation behind it and fundamental concepts of Neural Nets, followed by a hands-on introduction to Pytorch.
+  </p>"
+
+- time: 23rd June, 5:00-6:30 PM
+  info: "<u>Introduction to Convolutional and Recurrent Neural Nets</u><br><b>Jay Paranjape</b><br><i>4th Year B.Tech, CSE IIT Delhi</i><br><br><i>Abstract:</i><p>
+  Jay will be moving on to more advanced topics in Deep Learning. He will explain the basic concepts behind Convolutional and Recurrent Neural Nets, followed by a hands-on Demo on their implementation.
+  </p>"

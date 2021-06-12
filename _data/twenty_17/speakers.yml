@@ -1,0 +1,74 @@
+- title: Pramit Das
+  name: Pramit
+  subtitle: 1st Year PhD, University of Michigan
+  img: 1.png
+  thumbnail: week1_day1.png
+  alt: Picture of Pramit Das
+  topic: Linear Algebra, Probability and Statistics
+  description: "<h3>Speaker Bio</h3><p>
+  Pramit is a 1st Year PhD student at the University of Michigan. He achieved AIR 1 in GATE 2020 in Statistics. He is an ISI Calcutta graduate and an INMO Awardee.
+  </p><br><h3>Abstract</h3><p>
+  We plan to learn the fundamental uses of Eigenvalues, matrix factorization, and how we use those notions in ML. 
+In the second part, we intend to go over some basic statistical distributions and a very simple yet useful technique called Naive Bayes Classification.
+  </p>
+  "
+
+- title: Aman Bhardwaj
+  name: Aman
+  subtitle: 2nd Year MS(Research), CSE IIT Delhi
+  img: 2.png
+  thumbnail: week1_day2.png
+  alt: Picture of Aman Bhardwaj
+  topic: Linear Regression and Multi-Variable Calculus
+  description: "<h3>Speaker Bio</h3><p>
+  Aman is a 2nd Year MS(Research) student in the CSE Department at IIT Delhi. He was the winner of the ICVGIP 2020 Visual Data Challenge.
+  </p><br><h3>Abstract</h3><p>
+  Aman will broadly be covering the following topics:<ol>
+  <li>Introduction to ML, its types and important general concepts such as overfitting</li>
+  <li>A tour of Multi-Variable Calculus, starting from scalars through Gradients, Convexity and ending with applications</li>
+  <li>Linear Regression - Basics, Algorithm and hands-on Demo.</li>
+  </ol>
+  </p>
+  "
+
+- title: Ananye Agarwal
+  name: Ananye
+  subtitle: 4th Year B.Tech, CSE IIT Delhi
+  img: 3.png
+  thumbnail: week2_day1.png
+  alt: Picture of Ananye Agarwal
+  topic: Introduction to Deep Learning
+  description: "<h3>Speaker Bio</h3><p>
+  Ananye is a 4th Year B.Tech student in the CSE Department at IIT Delhi. He recently authored a paper that was accepted at ICML 2021. He has also interned at Microsoft Research India, and was AIR-3 in the IIT-JEE 2017.
+  </p><br><h3>Abstract</h3><p>
+  Ananye will be starting with a brief tutorial on Logistic Regression, and will then move on to Deep Learning. He will talk about the motivation behind it and fundamental concepts of Neural Nets, followed by a hands-on introduction to Pytorch.
+  </p>
+  "
+
+- title: Jay Paranjape
+  name: Jay
+  subtitle: 4th Year B.Tech, CSE IIT Delhi
+  img: 4.png
+  thumbnail: week2_day2.png
+  alt: Picture of Jay Paranjape
+  topic: Introduction to Convolutional and Recurrent Neural Nets
+  description: "<h3>Speaker Bio</h3><p>
+  Jay is a 4th Year B.Tech student in the CSE Department at IIT Delhi. He is a soon to be Data Scientist at Microsoft. He also has 3 publications in top ML Journals, and has previously been an ML intern at Robert Bosch.
+  </p><br><h3>Abstract</h3><p>
+  Jay will be moving on to more advanced topics in Deep Learning. He will explain the basic concepts behind Convolutional and Recurrent Neural Nets, followed by a hands-on Demo on their implementation.
+  </p>
+  "
+
+- title: Anshul Mittal
+  name: Anshul
+  subtitle: 2nd Year Google PhD Fellow, CSE IIT Delhi
+  img: 5.png
+  thumbnail: week4_day1.png
+  alt: Picture of Anshul Mittal
+  topic: More Methods in Machine Learning
+  description: "<h3>Speaker Bio</h3><p>
+  Anshul is a Google PhD Fellow at IIT Delhi, and is in his 2nd year. He has authored 6 Publications in top ML Conferences and Journals.
+  </p><br><h3>Abstract</h3><p>
+  Anshul will be covering some interesting traditional ML Methods. The algorithms to be discussed include Gaussian Discriminant Analysis, K-Means and Expectation-Maximization. This will serve to give an idea of the diversity in ML Methods, beyond Regression and Deep Learning.
+  </p>
+  "

@@ -1,0 +1,86 @@
+---
+layout: 2017_default
+permalink: /agenda
+title: Agenda
+published: true
+---
+<!--background color-->
+<script type="text/javascript">
+    document.write('<body style="background: Gainsboro; background-attachment: fixed;">')
+</script>
+
+<div class="event black-frame">
+    <h1>{{ page.title }}</h1>
+
+    <h2>Week 1: Mathematics and Basic Methods in ML</h2>
+    <table class="agenda">
+        <thead>
+            <tr>
+                <th class="row-1 agenda-time">
+                    <center>Day</center>
+                </th>
+                <th class="row-2 agenda-activity">
+                    <center>Workshop</center>
+                </th>
+            </tr>
+        </thead>
+
+        {% for agenda in site.data.twenty_17.agendas_1 %}
+        <tr>
+            <td>{{ agenda.time }}</td>
+            <td>{{ agenda.info }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <h2>Week 2: Deep Learning and its Applications</h2>
+    <table class="agenda">
+        <thead>
+            <tr>
+                <th class="row-1 agenda-time">
+                    <center>Day</center>
+                </th>
+                <th class="row-2 agenda-activity">
+                    <center>Workshop</center>
+                </th>
+            </tr>
+
+        </thead>
+
+        {% for agenda in site.data.twenty_17.agendas_2 %}
+        <tr>
+            <td>{{ agenda.time }}</td>
+            <td>{{ agenda.info }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <h2>Week 3: Mega Hackathon</h2>
+    <ul>
+        <li>Dates: 24th - 30th June, 2021</li>
+        <li>More details coming soon!</li>
+        <li><i>Note: Freshers wanting to join the club for the next year are highly encouraged to participate.</i></li>
+    </ul>
+
+    <h2>Week 4: More Methods in Machine Learning</h2>
+    <table class="agenda">
+        <thead>
+            <tr>
+                <th class="row-1 agenda-time">
+                    <center>Day</center>
+                </th>
+                <th class="row-2 agenda-activity">
+                    <center>Workshop</center>
+                </th>
+            </tr>
+
+        </thead>
+
+        {% for agenda in site.data.twenty_17.agendas_4 %}
+        <tr>
+            <td>{{ agenda.time }}</td>
+            <td>{{ agenda.info }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
