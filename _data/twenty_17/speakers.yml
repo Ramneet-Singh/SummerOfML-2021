@@ -53,9 +53,9 @@ In the second part, we intend to go over some basic statistical distributions an
   alt: Picture of Jay Paranjape
   topic: Introduction to Convolutional and Recurrent Neural Nets
   description: "<h3>Speaker Bio</h3><p>
-  Jay is a 4th Year B.Tech student in the CSE Department at IIT Delhi. He is a soon to be Data Scientist at Microsoft. He also has 3 publications in top ML Journals, and has previously been an ML intern at Robert Bosch.
+  Jay will graduate this year from the Computer Science Dept IIT Delhi. He has been associated with ML right from his first year and has experience working on problems with industries like Bosch and Microsoft. He will now be joining Microsoft as an ML engineer. He is currently working with Prof Chetan Arora in collaboration with AIIMS.
   </p><br><h3>Abstract</h3><p>
-  Jay will be moving on to more advanced topics in Deep Learning. He will explain the basic concepts behind Convolutional and Recurrent Neural Nets, followed by a hands-on Demo on their implementation.
+  Computer Vision and Natural Language Processing are two of the most studied areas of Deep Learning. Computer Vision is used in various fields like Medical imaging, automatic driving and so on. Similarly, NLP is used in chatbots, recommendations, world understanding and so on. This talk will take you a bit deeper into what makes the computer understand images or text - CNNs and RNNs. Get to know more about these building blocks how they have been crucial to Machine Learning over the years and we hope you will be using them in your own projects soon enough.
   </p>
   "
 
