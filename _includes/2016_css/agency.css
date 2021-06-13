@@ -305,7 +305,7 @@ fieldset[disabled] .btn-xl.active {
 @media(min-width:768px) {
     .navbar-default-color {
         padding: 25px 0;
-        background-color: transparent;
+        background-color: #222;
     }
     .navbar-default {
         border: 0;
@@ -339,7 +339,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2016_style/img/landscape_instructors.png');
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('{{ site.baseurl }}/css/2016_style/img/lhc.jpeg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Summer of ML 2021</title>
+    <description>A series of 4 workshops, culminating in a hackathon, organised by AI &amp; ML Club IIT Delhi. Join us for a month of learning in the field of ML.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 13 Jun 2021 16:05:22 +0530</pubDate>
+    <lastBuildDate>Sun, 13 Jun 2021 16:05:22 +0530</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+  </channel>
+</rss>
