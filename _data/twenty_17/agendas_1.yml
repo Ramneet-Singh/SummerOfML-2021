@@ -1,8 +1,8 @@
-- time: "15th June, 5:00-6:30 PM <br> <a href="https://youtu.be/O_LAvX04jXE" target="_blank">Watch on YouTube</a>"
+- time: "15th June, 5:00-6:30 PM <br> <a href=\"https://youtu.be/O_LAvX04jXE\" target=\"_blank\">Watch on YouTube</a>"
   info: "<u>Linear Algebra, Probability and Statistics</u><br><b>Pramit Das</b><br><i>1st Year PhD, University of Michigan</i><br><br><b>Prerequisites:</b>We expect participants to have knowledge equivalent to a freshman level course on Linear Algebra. Familiarity with Python, Jupyter notebooks and Anaconda will also help greatly. Beginners are encouraged to go through the following resources we have provided in the past:
   <ul>
-    <li><a href="https://aimlc-iitd.netlify.app/python_resources" target="_blank">Of Course(s) Python!</a> for Python resources.</li>
-    <li><a href="https://aimlc-iitd.netlify.app/Jupyter_and_Libraries" target="_blank">Jupyter and Libraries</a> for a tutorial on Anaconda, Jupyter notebooks and some useful libraries. Also available in video form on <a href="https://www.youtube.com/playlist?list=PLoBovXf4PWTMiwh8_gIXH082CbDic1yMm" target="_blank" rel="noreferrer">YouTube</a></li>
+    <li><a href=\"https://aimlc-iitd.netlify.app/python_resources\" target=\"_blank\">Of Course(s) Python!</a> for Python resources.</li>
+    <li><a href=\"https://aimlc-iitd.netlify.app/Jupyter_and_Libraries\" target=\"_blank\">Jupyter and Libraries</a> for a tutorial on Anaconda, Jupyter notebooks and some useful libraries. Also available in video form on <a href=\"https://www.youtube.com/playlist?list=PLoBovXf4PWTMiwh8_gIXH082CbDic1yMm\" target=\"_blank\" rel=\"noreferrer\">YouTube</a></li>
   </ul>
   <i>Abstract:</i> <p>We plan to learn the fundamental uses of Eigenvalues, matrix factorization, and how we use those notions in ML. 
 In the second part, we intend to go over some basic statistical distributions and a very simple yet useful technique called Naive Bayes Classification.
