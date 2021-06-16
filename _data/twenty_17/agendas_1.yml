@@ -4,12 +4,22 @@
     <li><a href=\"https://aimlc-iitd.netlify.app/python_resources\" target=\"_blank\">Of Course(s) Python!</a> for Python resources.</li>
     <li><a href=\"https://aimlc-iitd.netlify.app/Jupyter_and_Libraries\" target=\"_blank\">Jupyter and Libraries</a> for a tutorial on Anaconda, Jupyter notebooks and some useful libraries. Also available in video form on <a href=\"https://www.youtube.com/playlist?list=PLoBovXf4PWTMiwh8_gIXH082CbDic1yMm\" target=\"_blank\" rel=\"noreferrer\">YouTube</a></li>
   </ul>
+  <b>Resources:</b>
+  You can find the jupyter notebook used by Pramit on our <a href=\"https://github.com/AIMLC-IITD/Summer-of-ML-2021/blob/main/Week-1/Day-1/main.ipynb\" target=\"_blank\">GitHub</a>. Thank you to Mustafa and Nirjhar for explaining everything wonderfully, and of course Pramit for giving an excellent tour of the math behind ML.
   <i>Abstract:</i> <p>We plan to learn the fundamental uses of Eigenvalues, matrix factorization, and how we use those notions in ML. 
 In the second part, we intend to go over some basic statistical distributions and a very simple yet useful technique called Naive Bayes Classification.
 </p>"
 
-- time: 16th June, 5:00-6:30 PM
-  info: "<u>Linear Regression and Multi-Variable Calculus</u><br><b>Aman Bhardwaj</b><br><i>2nd Year MS(Research), CSE IIT Delhi</i><br><br><i>Abstract:</i>
+- time: "16th June, 5:00-6:30 PM <br> <a href=\"https://www.youtube.com/watch?v=Xec_ZGAQJPE&list=PLoBovXf4PWTP3Mau7Y8-zQpPJG16g5HxZ&index=2\" target=\"_blank\">Watch on YouTube</a>"
+  info: "<u>Linear Regression and Multi-Variable Calculus</u><br><b>Aman Bhardwaj</b><br><i>2nd Year MS(Research), CSE IIT Delhi</i><br><br>
+  <b>Reference Resources:</b>Please go through the prerequisites of the previous session in case you are not familiar with Python, Jupyter and libraries. For this session:
+  <ul>
+    <li><a href=\"https://github.com/AIMLC-IITD/Summer-of-ML-2021/tree/main/Week-1/Day-2\" target=\"_blank\">GitHub Repo Link</a> - One-Stop destination for everything you'll need.</li>
+    <li><a href=\"https://github.com/CosmoLuminous/summer-of-ml/blob/master/LinearRegression.ipynb\" target=\"_blank\">Jupyter Notebook</a> - Aman has prepared a wonderful notebook to illustrate what he will teach today. The link to this is also present in the GitHub Repo of the previous point.</li>
+    <li>Aman has also been kind enough to create a separate repository dedicated to his session today. You can find it by clicking <a href=\"https://github.com/CosmoLuminous/summer-of-ml\" target=\"_blank\">here</a> and it is also present in our repo.</li>
+    <li>P.S. - These resources are really amazing, make sure you go through them:) And thank you to Aman for creating them!</li>
+  </ul>
+  <i>Abstract:</i>
   <p>Aman will broadly be covering the following topics:<ol>
   <li>Introduction to ML, its types and important general concepts such as overfitting</li>
   <li>A tour of Multi-Variable Calculus, starting from scalars through Gradients, Convexity and ending with applications</li>
